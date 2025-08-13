@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "tilebreak-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1014,
+				"h": 1893
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tilebreak__029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 296,
+						"h": 338
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 296,
+						"h": 338
+					}
+				},
+				{
+					"filename": "tilebreak__028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 291,
+						"h": 332
+					},
+					"frame": {
+						"x": 1,
+						"y": 341,
+						"w": 291,
+						"h": 332
+					}
+				},
+				{
+					"filename": "tilebreak__027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 286,
+						"h": 327
+					},
+					"frame": {
+						"x": 299,
+						"y": 1,
+						"w": 286,
+						"h": 327
+					}
+				},
+				{
+					"filename": "tilebreak__026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 282,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 675,
+						"w": 282,
+						"h": 320
+					}
+				},
+				{
+					"filename": "tilebreak__025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 17,
+						"w": 279,
+						"h": 314
+					},
+					"frame": {
+						"x": 587,
+						"y": 1,
+						"w": 279,
+						"h": 314
+					}
+				},
+				{
+					"filename": "tilebreak__024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 278,
+						"h": 307
+					},
+					"frame": {
+						"x": 1,
+						"y": 997,
+						"w": 278,
+						"h": 307
+					}
+				},
+				{
+					"filename": "tilebreak__023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 24,
+						"w": 275,
+						"h": 302
+					},
+					"frame": {
+						"x": 1,
+						"y": 1306,
+						"w": 275,
+						"h": 302
+					}
+				},
+				{
+					"filename": "tilebreak__020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 36,
+						"w": 267,
+						"h": 282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1610,
+						"w": 267,
+						"h": 282
+					}
+				},
+				{
+					"filename": "tilebreak__002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 106,
+						"w": 145,
+						"h": 144
+					},
+					"frame": {
+						"x": 868,
+						"y": 1,
+						"w": 145,
+						"h": 144
+					}
+				},
+				{
+					"filename": "tilebreak__022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 28,
+						"w": 273,
+						"h": 295
+					},
+					"frame": {
+						"x": 285,
+						"y": 675,
+						"w": 273,
+						"h": 295
+					}
+				},
+				{
+					"filename": "tilebreak__021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 32,
+						"w": 269,
+						"h": 289
+					},
+					"frame": {
+						"x": 294,
+						"y": 341,
+						"w": 269,
+						"h": 289
+					}
+				},
+				{
+					"filename": "tilebreak__019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 39,
+						"w": 263,
+						"h": 276
+					},
+					"frame": {
+						"x": 285,
+						"y": 972,
+						"w": 263,
+						"h": 276
+					}
+				},
+				{
+					"filename": "tilebreak__018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 43,
+						"w": 260,
+						"h": 270
+					},
+					"frame": {
+						"x": 281,
+						"y": 1250,
+						"w": 260,
+						"h": 270
+					}
+				},
+				{
+					"filename": "tilebreak__017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 257,
+						"h": 263
+					},
+					"frame": {
+						"x": 278,
+						"y": 1522,
+						"w": 257,
+						"h": 263
+					}
+				},
+				{
+					"filename": "tilebreak__001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 112,
+						"w": 134,
+						"h": 133
+					},
+					"frame": {
+						"x": 868,
+						"y": 147,
+						"w": 134,
+						"h": 133
+					}
+				},
+				{
+					"filename": "tilebreak__016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 51,
+						"w": 252,
+						"h": 256
+					},
+					"frame": {
+						"x": 565,
+						"y": 330,
+						"w": 252,
+						"h": 256
+					}
+				},
+				{
+					"filename": "tilebreak__015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 55,
+						"w": 248,
+						"h": 248
+					},
+					"frame": {
+						"x": 565,
+						"y": 588,
+						"w": 248,
+						"h": 248
+					}
+				},
+				{
+					"filename": "tilebreak__014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 59,
+						"w": 244,
+						"h": 241
+					},
+					"frame": {
+						"x": 560,
+						"y": 838,
+						"w": 244,
+						"h": 241
+					}
+				},
+				{
+					"filename": "tilebreak__013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 63,
+						"w": 238,
+						"h": 234
+					},
+					"frame": {
+						"x": 550,
+						"y": 1081,
+						"w": 238,
+						"h": 234
+					}
+				},
+				{
+					"filename": "tilebreak__012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 68,
+						"w": 232,
+						"h": 225
+					},
+					"frame": {
+						"x": 543,
+						"y": 1317,
+						"w": 232,
+						"h": 225
+					}
+				},
+				{
+					"filename": "tilebreak__011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 72,
+						"w": 226,
+						"h": 217
+					},
+					"frame": {
+						"x": 537,
+						"y": 1544,
+						"w": 226,
+						"h": 217
+					}
+				},
+				{
+					"filename": "tilebreak__010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 74,
+						"w": 219,
+						"h": 211
+					},
+					"frame": {
+						"x": 790,
+						"y": 1081,
+						"w": 219,
+						"h": 211
+					}
+				},
+				{
+					"filename": "tilebreak__009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 76,
+						"w": 212,
+						"h": 205
+					},
+					"frame": {
+						"x": 790,
+						"y": 1294,
+						"w": 212,
+						"h": 205
+					}
+				},
+				{
+					"filename": "tilebreak__008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 78,
+						"w": 203,
+						"h": 199
+					},
+					"frame": {
+						"x": 777,
+						"y": 1501,
+						"w": 203,
+						"h": 199
+					}
+				},
+				{
+					"filename": "tilebreak__006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 86,
+						"w": 186,
+						"h": 183
+					},
+					"frame": {
+						"x": 765,
+						"y": 1702,
+						"w": 186,
+						"h": 183
+					}
+				},
+				{
+					"filename": "tilebreak__005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 90,
+						"w": 176,
+						"h": 174
+					},
+					"frame": {
+						"x": 819,
+						"y": 317,
+						"w": 176,
+						"h": 174
+					}
+				},
+				{
+					"filename": "tilebreak__004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 95,
+						"w": 166,
+						"h": 164
+					},
+					"frame": {
+						"x": 819,
+						"y": 493,
+						"w": 166,
+						"h": 164
+					}
+				},
+				{
+					"filename": "tilebreak__007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 82,
+						"w": 195,
+						"h": 191
+					},
+					"frame": {
+						"x": 815,
+						"y": 659,
+						"w": 195,
+						"h": 191
+					}
+				},
+				{
+					"filename": "tilebreak__003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 100,
+						"w": 156,
+						"h": 155
+					},
+					"frame": {
+						"x": 806,
+						"y": 852,
+						"w": 156,
+						"h": 155
+					}
+				},
+				{
+					"filename": "tilebreak__000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 119,
+						"w": 122,
+						"h": 122
+					},
+					"frame": {
+						"x": 537,
+						"y": 1763,
+						"w": 122,
+						"h": 122
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:928e62cfafee4742a1b5316aa8e05f34:08679457ff310307fffa3039cbb77a8f:7bc8f13ba9daa9796fe479a3300e811c$"
+	}
+}
